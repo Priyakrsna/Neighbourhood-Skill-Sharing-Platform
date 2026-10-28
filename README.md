@@ -57,12 +57,6 @@ npm run dev
 
 ---
 
-## API Base URL
-
-http://localhost:5000/api
-
----
-
 ## Core Workflow
 
 Register → Add Skill → Explore Skills → Schedule Session → Give Rating
@@ -80,4 +74,5 @@ Register → Add Skill → Explore Skills → Schedule Session → Give Rating
 ---
 
 ## 👨 Author
-FSD COHORT 5
+
+Priyanka and team.
